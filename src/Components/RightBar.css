@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+.brandItem {
+  grid-row-start: 1;
+  grid-row-end: 9;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(26, 25, 25, 0.4);
+  backdrop-filter: blur(1px);
+}
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
+}
+.brandItem .about p{
+  color: aliceblue;
+  font-size: 1rem;
+  font-family: 'Bree Serif', serif;
+}
+.brandItem img {
+  width: 15rem;
+  border-radius: 50%;
+  height: 15rem;
+  background-color: black;
+  padding: 4px;
+  box-shadow: rgba(0, 0, 0, 0.25) 1px 1px 55px, rgba(0, 0, 0, 0.12) 1px 1px 30px,
+    rgba(0, 0, 0, 0.12) 1px 1px 6px, rgba(0, 0, 0, 0.17) 0px 1px 13px,
+    rgba(0, 0, 0, 0.09) 0px 1px 5px;
+}
+.anim {
+  animation: rotate 5s linear infinite;
+}
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.brandItem h1 {
+  color: white;
+  background: linear-gradient(25deg, #664cfd, #e08095 50%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 3rem;
+  font-weight: 300;
+  font-family: 'DM Serif Display', serif;
+}
+.brandItem p {
+  width: 80%;
+  text-align: center;
+  color: rgb(33, 33, 33);
+  font-family: 'Bree Serif', serif;
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*--------------------------------------------media query------------------------------------------*/
+@media only screen and (max-width: 400px) {
+  /* For mobile phones: */
+  .brandItem h1 {
+    font-size: 1.5rem;
+  }
+  .brandItem p {
+    font-size: 1rem;
+  }
+  .brandItem img {
+    height: 10rem;
+    width: 10rem;
+  }
+  .brandItem {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 8;
+  }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 640px) {
+  /* For big mobile phones: */
+  .brandItem h1 {
+    font-size: 1.5rem;
+  }
+  .brandItem p {
+    font-size: 1rem;
+  }
+  .brandItem img {
+    height: 15rem;
+    width: 15rem;
+  }
+  .brandItem {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 8;
+    
+  }
+}
+@media only screen and (min-width: 641px) and (max-width: 800px) {
+  /* For tab: */
+
+  .brandItem h1 {
+    font-size: 1.5rem;
+  }
+  .brandItem p {
+    font-size: 1rem;
+  }
+  .brandItem img {
+    height: 17rem;
+    width: 17rem;
+  }
+  .brandItem {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 8;
+    flex-direction: row;
+    width: 90%;
+    margin: 5px 5%;
+  }
+  .brandItem .about {
+    width: 50%;
+  }
+}
+@media only screen and (min-width: 799px) and (max-width: 1160px) {
+  /* For bigger than tab: */
+  .brandItem h1 {
+    font-size: 2rem;
+  }
+  .brandItem p {
+    font-size: 1rem;
+  }
+  .brandItem img {
+    height: 20rem;
+    width: 20rem;
+  }
+  .brandItem {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 8;
+    flex-direction: row;
+    width: 90%;
+    margin: 5px 5%;
+  }
+  .brandItem .about {
+    width: 50%;
+  }
+}

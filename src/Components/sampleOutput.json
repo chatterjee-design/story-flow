@@ -1,0 +1,270 @@
+{
+  "status": "ok",
+  "totalResults": 10357,
+  "articles": [
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Joel Khalili",
+      "title": "Bitcoin Investors Are Plotting a Major Coup",
+      "description": "A group of activist shareholders at the world's largest bitcoin investment trust claim they lost billions as the market tanked. Now they want to take control.",
+      "url": "https://www.wired.com/story/crypto-bitcoin-grayscale-coup/",
+      "urlToImage": "https://media.wired.com/photos/63ea75bd69cf98bf3540429b/191:100/w_1280,c_limit/Coup-D'etat-In-Bitcoin-Land-Business.mp4",
+      "publishedAt": "2023-02-14T12:00:00Z",
+      "content": "Like Valkyrie, Osprey has called on Grayscale to step down as sponsor and put itself forward as a replacement. In an open letter, Osprey CEO Greg King promised to cut the management fee by 75 percent… [+2998 chars]"
+    },
+  
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "rhogg@insider.com (Ryan Hogg)",
+      "title": "Drake scooped up a $512,000 profit in bitcoin after betting on the Kansas City Chiefs to win the Super Bowl",
+      "description": "The \"God's Plan\" singer placed seven bets worth a total of $965,000, but was only successful with his $700,000 punt on the Chiefs to beat the Eagles.",
+      "url": "https://markets.businessinsider.com/news/currencies/drake-512000-bitcoin-profit-betting-on-chiefs-super-bowl-win-2023-2",
+      "urlToImage": "https://i.insider.com/63ca6c452a1e600018b8d37f?width=1200&format=jpeg",
+      "publishedAt": "2023-02-14T16:26:38Z",
+      "content": "Drake scooped up $512,000 in bitcoin winnings after placing several bets on Sunday's Super Bowl, but it took a lot more of the cryptocurrency than last year to take his positions.\r\nAccording to a pos… [+1643 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mchittum@insider.com (Morgan Chittum)",
+      "title": "Bitcoin hits a 6-month high as the total crypto market regains $85 billion in value",
+      "description": "Crypto investors aren't in the clear yet, as macro conditions remain uncertain and risk appetite hinges on the Fed's next move.",
+      "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-crypto-market-outlook-6-month-high-btc-analysts-2023-2",
+      "urlToImage": "https://i.insider.com/63ee2a6c1d14070018bb0159?width=1200&format=jpeg",
+      "publishedAt": "2023-02-16T15:20:23Z",
+      "content": "Bitcoin's price hit a six-month high on Thursday as the cryptocurrency market's total value rose by nearly $85 billion to top $1.1 trillion.\r\nThe world's largest crypto is trading around $24,376, up … [+2677 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mchittum@insider.com (Morgan Chittum)",
+      "title": "Crypto lost the battle to be an alternative to fiat money after FTX collapse, top economist says",
+      "description": "\"Only the legal, historical infrastructure behind central banks can give great credibility [to money],\" a top economist said.",
+      "url": "https://markets.businessinsider.com/news/currencies/crypto-lost-battle-alternative-fiat-money-central-banks-ftx-crash-2023-2",
+      "urlToImage": "https://i.insider.com/63f670355ca81e001855c2af?width=1200&format=jpeg",
+      "publishedAt": "2023-02-22T20:53:16Z",
+      "content": "Fiat money has beaten out an often-cited use case for certain cryptos an alternative to traditional currencies, according to Agustin Carstens, the head of the Bank for International Settlements.\r\n\"I … [+1660 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mchittum@insider.com (Morgan Chittum)",
+      "title": "FTX's collapse wiped out $200 billion in the total value of the cryptocurrency market, and it hit retail investors in emerging economies the hardest",
+      "description": "Larger crypto investors \"tended to sell their coins right before steep price declines, while smaller investors were still buying,\" a new study found.",
+      "url": "https://markets.businessinsider.com/news/currencies/crypto-market-retail-investors-ftx-sbf-emerging-economies-bitcoin-ethereum-2023-2",
+      "urlToImage": "https://i.insider.com/63f4d2c25ca81e00185586e9?width=1200&format=jpeg",
+      "publishedAt": "2023-02-21T15:48:35Z",
+      "content": "Cryptocurrency markets lost $200 billion in value in the wake of FTX's downfall in November, a new report found, but losses weren't the same for investors across the board.\r\nRetail investors in emerg… [+1881 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Crypto-mining scheme run from US school crawl space",
+      "description": "Police were called after a janitor noticed electrical wires, ductwork and computers that looked amiss.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-64767178",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18622/production/_128747899_crypto.jpg",
+      "publishedAt": "2023-02-25T00:41:31Z",
+      "content": "A town official was running an illegal cryptocurrency mining operation from a crawl space under a school in the US state of Massachusetts, police say.\r\nNadeam Nahas, 39, who was an assistant faciliti… [+1974 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Oscar Gonzalez",
+      "title": "PayPal Halts Plans for Stablecoin, Report Says - CNET",
+      "description": "The payments company says if it moves forward with a coin, it'll work closely with regulators.",
+      "url": "https://www.cnet.com/personal-finance/crypto/paypal-halts-plans-for-stablecoin-report-says/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/b129aa5e9ac83ca2f4f4fc030197296ae4b5038d/hub/2022/04/25/02ef8983-cf7b-417f-9094-b6fac848699e/paypal-logo-2022-783.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2023-02-10T22:26:24Z",
+      "content": "PayPal has hit pause on efforts to develop its own stablecoin, according to a Bloomberg report Friday. \r\nThe online payment provider reportedly halted its plans due to increased scrutiny of cryptocur… [+839 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Boing Boing" },
+      "author": "Mark Frauenfelder",
+      "title": "How scammers are using AI voice cloning to trick victims into sending money",
+      "description": "The Washington Post reports that scammers are using high-quality AI-generated voice technology to impersonate loved ones and persuade victims that they are in distress and need money urgently.\n\n\n\nOne example in the article is about the parents of a man named …",
+      "url": "https://boingboing.net/2023/03/06/how-scammers-are-using-ai-voice-cloning-to-trick-victims-into-sending-money.html",
+      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/clone.jpg?fit=1200%2C832&ssl=1",
+      "publishedAt": "2023-03-06T18:53:31Z",
+      "content": "The Washington Post reports that scammers are using high-quality AI-generated voice technology to impersonate loved ones and persuade victims that they are in distress and need money urgently.One exa… [+1269 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ReadWrite" },
+      "author": "Guy Sheetrit",
+      "title": "Will Crypto Rise Again – and What to Do While Waiting",
+      "description": "Since 2020, the crypto market has experienced the most important bear season in its history (coindesk), with the toughest wave persisting throughout 2022. From an all-time high of nearly $69,000 back in November 2021, bitcoin now trades at around $20,000. And…",
+      "url": "https://readwrite.com/will-crypto-rise-again-and-what-to-do-while-waiting/",
+      "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/01/Will-Crypto-Rise-Again.jpg",
+      "publishedAt": "2023-02-09T16:01:00Z",
+      "content": "Since 2020, the crypto market has experienced the most important bear season in its history (coindesk), with the toughest wave persisting throughout 2022. From an all-time high of nearly $69,000 back… [+8055 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "gglover@insider.com (George Glover)",
+      "title": "2 former Barclays bankers just netted a 700% profit selling Bored Ape NFTs",
+      "description": "Mike Anderson and Ovie Faruq offloaded their collection of 72 NFTs for $9.25 million this week, according to OpenSea data.",
+      "url": "https://markets.businessinsider.com/news/currencies/crypto-investing-news-nft-barclays-bankers-junk-bonds-bored-ape-2023-2",
+      "urlToImage": "https://i.insider.com/63f882ec88f76900192d1bf5?width=1200&format=jpeg",
+      "publishedAt": "2023-02-24T10:31:02Z",
+      "content": "Two former Barclays junk bond traders reportedly netted a 700% profit when they offloaded their collection of Bored Ape Yacht Club NFTs earlier this week.\r\nMike Anderson and Ovie Faruq sold the 72 NF… [+1998 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Eliza Bavin",
+      "title": "Man has two more chances before $232M in Bitcoin is lost forever",
+      "description": "After misplacing his digital wallet password, this man has only two more attempts before his millions are lost forever.",
+      "url": "https://au.finance.yahoo.com/news/man-has-two-more-chances-before-232-million-is-lost-forever-222045101.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/8de88490-eda3-11eb-aefe-da5c70e019cd",
+      "publishedAt": "2023-03-05T23:55:37Z",
+      "content": "The German-born man has used eight of his 10 attempts to access his Bitcoin. (Source: Getty)\r\nBack when Bitcoin was worth only $5 a coin, Stefan Thomas was paid 7,002 of them for making a video expla… [+1554 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "prosen@insider.com (Phil Rosen)",
+      "title": "US stocks trade higher a day ahead of a key inflation reading",
+      "description": "Traders will be watching for a slew of corporate earnings this week, and on Tuesday fresh consumer price index data comes out.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-indexes-trade-cpi-reading-investing-earnings-2023-2",
+      "urlToImage": "https://i.insider.com/63ea44954102a900184c8015?width=1200&format=jpeg",
+      "publishedAt": "2023-02-13T14:33:25Z",
+      "content": "US stocks traded slightly higher Monday as traders look ahead to a key inflation reading coming on Tuesday that could sway the Federal Reserve's policy plans. \r\nEconomists expect January's headline c… [+1164 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "bevans@insider.com (Brian Evans)",
+      "title": "US stocks end mixed after volatile session as indexes notch weekly losses",
+      "description": "The S&P 500 suffered its first weekly loss in three weeks and notched its worst one-week decline since December.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-sp500-dow-jones-nasdaq-weekly-losses-2023-2",
+      "urlToImage": "https://i.insider.com/627d639b27d5960019ee5b01?width=1200&format=jpeg",
+      "publishedAt": "2023-02-10T21:07:21Z",
+      "content": "US stocks were mixed at the close on Friday after a volatile session that capped off a losing week for the major indexes. \r\nThe S&amp;P 500 suffered its first weekly loss in three weeks and notched i… [+1173 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "bevans@insider.com (Brian Evans)",
+      "title": "US stocks finish higher after volatile session as S&P 500 breaks out of slump",
+      "description": "Trading was volatile as the major indexes swung between gains and losses intraday, following a big sell-off earlier in the week.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-sp500-ends-losing-streak-gdp-revision-2023-2",
+      "urlToImage": "https://i.insider.com/6352c3d7ffcac3001876bb26?width=1200&format=jpeg",
+      "publishedAt": "2023-02-23T21:05:21Z",
+      "content": "US stocks closed higher on Thursday, with the S&amp;P 500 breaking a streak of four consecutive losses. \r\nMarkets swung between gains and losses, following a big sell-off earlier in the week. The rel… [+1160 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mfox@businessinsider.com (Matthew Fox)",
+      "title": "US stocks rise as investors await Fed minutes to gauge interest rate trajectory",
+      "description": "Fed presidents like James Bullard and Loretta Mester have recently advocated for a return to 50-basis-point rate hikes to combat inflation.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-fed-minutes-interest-rate-clues-inflation-2023-2",
+      "urlToImage": "https://i.insider.com/639ccfcbb5600000185b2286?width=1200&format=jpeg",
+      "publishedAt": "2023-02-22T14:33:38Z",
+      "content": "US stocks edged higher on Wednesday as investors await the release of minutes from the Federal Reserve's last FOMC meeting.\r\nInvestors will look for clues on the trajectory of future interest rate hi… [+1245 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Kalyeena Makortoff Banking correspondent",
+      "title": "City regulator joins Met in raids on suspected crypto ATM operations",
+      "description": "Joint investigation with police in London follows similar one in Leeds as part of wider crackdown on sectorThe City watchdog and local police have raided several sites in east London suspected of housing illegal ATMs distributing cryptocurrencies, as part of …",
+      "url": "https://www.theguardian.com/technology/2023/mar/08/city-regulator-met-raids-suspected-crypto-atm-operations-police-london-leeds-crackdown-fca",
+      "urlToImage": "https://i.guim.co.uk/img/media/f2e32f3b1abdf154154e4d021b13facc51d838b5/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84b77443e4ec015e06f4a4ef30c9b2f5",
+      "publishedAt": "2023-03-08T12:22:28Z",
+      "content": "The City watchdog and local police have raided several sites in east London suspected of housing illegal ATMs distributing cryptocurrencies, as part of a widening crackdown on the sector.\r\nThe joint … [+1974 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mfox@businessinsider.com (Matthew Fox)",
+      "title": "The stock market has been flipped upside down",
+      "description": "JPMorgan says this risk-seeking behavior is practically taunting the Fed, which is still hiking interest rates to bring inflation down.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-trends-flipped-upside-down-investors-defy-fed-2023-2",
+      "urlToImage": "https://i.insider.com/63eea93db66c280019d77cbd?width=1200&format=jpeg",
+      "publishedAt": "2023-02-18T10:00:00Z",
+      "content": "The stock market has been completely flipped upside down so far in 2023 as risky assets that struggled last year stage a big comeback, even in the face of continued rate hikes from the Federal Reserv… [+4365 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mfox@businessinsider.com (Matthew Fox)",
+      "title": "US stocks trade mixed as Fed minutes show central bank willing to push on with rate hikes to fight inflation",
+      "description": "The Fed minutes showed that some central bankers were supportive of a 50 basis point interest rate hike at its February FOMC meeting.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-fed-minutes-more-interest-rate-hikes-2023-2",
+      "urlToImage": "https://i.insider.com/639b5eb2b7e0f200180939e7?width=1200&format=jpeg",
+      "publishedAt": "2023-02-22T21:06:27Z",
+      "content": "US stocks ended mixed on Wednesday after minutes from the Federal Reserve's last meeting showed that inflation remains a top concern for the central bank as it remains well above its long-term target… [+1279 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "bevans@insider.com (Brian Evans)",
+      "title": "US stocks rise as the S&P 500 looks to snap a 4-day losing streak",
+      "description": "The S&P 500 has notched four straight losses, which is the longest losing streak for the benchmark so far in 2023.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-sp500-losing-streak-nasdaq-dow-2023-2",
+      "urlToImage": "https://i.insider.com/63f776fb88f76900192cf333?width=1200&format=jpeg",
+      "publishedAt": "2023-02-23T14:47:30Z",
+      "content": "US stocks opened higher on Thursday, with major indexes set to mark a turnaround from a disappointing week. \r\nThe S&amp;P 500 has notched four straight losses, which is the longest losing streak for … [+1131 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "bevans@insider.com (Brian Evans)",
+      "title": "US stocks sink further with S&P 500 on course for worst week since December",
+      "description": "US stocks opened lower again on Friday as firms reported disappointing quarterly earnings.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-sp500-russia-crude-oil-production-cut-2023-2",
+      "urlToImage": "https://i.insider.com/63c6b19958de070019f9f010?width=1200&format=jpeg",
+      "publishedAt": "2023-02-10T14:40:36Z",
+      "content": "US stocks opened lower on Friday, with major indices set to cap off a volatile week with more losses. \r\nThe S&amp;P 500 was on course for its worst week since December, and investors are seeking cove… [+1120 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "insider@insider.com (Carla Mozée)",
+      "title": "Fake ChatGPT tokens are flooding the market as crypto scammers take advantage of the AI craze",
+      "description": "Blockchain security company PeckShield alerted crypto investors that at least one issuer has created \"dozens of tokens with a pump & dump scheme.\"",
+      "url": "https://markets.businessinsider.com/news/currencies/chatgpt-tokens-cryptocurrency-fake-scammers-bing-microsoft-ai-artificial-intelligence-2023-2",
+      "urlToImage": "https://i.insider.com/63db8cdee33c4000193aa1fb?width=1200&format=jpeg",
+      "publishedAt": "2023-02-21T17:07:12Z",
+      "content": "ChatGPT's popularity has inspired scammers to unleash a wave of unauthorized cryptocurrencies designed to appear as if they're affiliated with the chatbot that's sparked 2023's AI investing frenzy. \r… [+1335 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mfox@businessinsider.com (Matthew Fox)",
+      "title": "US stocks fall after hot retail sales report suggests higher interest rates for longer",
+      "description": "January retail sales surged 3%, well above economist estimates of 1.8% and represented the biggest monthly gain for retail sales since March 2021.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-hot-retail-sales-report-higher-rates-2023-2",
+      "urlToImage": "https://i.insider.com/62824e98e7446d0018cc9eeb?width=1200&format=jpeg",
+      "publishedAt": "2023-02-15T14:36:40Z",
+      "content": "US stocks dropped on Wednesday after a hotter-than-expected retail sales report suggested to investors that interest rates might stay higher for longer.\r\nRetail sales in January surged 3%, which was … [+927 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mchittum@insider.com (Morgan Chittum)",
+      "title": "US stocks rally as traders digest comments from Fed officials on coming rate hikes",
+      "description": "The Dow popped more than 300 points, supported by Salesforce's gains. Meanwhile, the 2-year note yield reached levels not seen in over a decade.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-sp500-nasdaq-fed-rates-bostic-2023-3",
+      "urlToImage": "https://i.insider.com/63e2c1fd96242f0019e7d91e?width=1200&format=jpeg",
+      "publishedAt": "2023-03-02T21:05:32Z",
+      "content": "US stocks rallied Thursday as a Federal Reserve official's comments on coming interest rates hikes cheered investors.\r\nAfter opening in mixed territory, the major indexes closed in the green, even as… [+1204 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mfox@businessinsider.com (Matthew Fox)",
+      "title": "US stocks dip to start the month as investors grapple with fears of interest rates higher for longer",
+      "description": "The Federal Reserve is expected to hike interest rates at least two more times to the 5% level, but further increases could be possible.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-investors-fear-high-interest-rates-fed-2023-3",
+      "urlToImage": "https://i.insider.com/6360270d0b271e00186bb924?width=1200&format=jpeg",
+      "publishedAt": "2023-03-01T14:36:47Z",
+      "content": "US stocks started the month of March in the red as investors continue to fear the prospect of higher for longer interest rates.\r\nThe inflation rate unexpectedly accelerated in Germany last month, and… [+901 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mchittum@insider.com (Morgan Chittum)",
+      "title": "US stocks close lower to wrap up losing week as hot inflation data jolts markets",
+      "description": "The drop on Friday follows higher-than-expected core PCE data. The two-year Treasury yield neared its highest level since 2007.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-sp500-nasdaq-dow-bond-yields-inflation-data-2023-2",
+      "urlToImage": "https://i.insider.com/63dba59ee33c4000193aa450?width=1200&format=jpeg",
+      "publishedAt": "2023-02-24T21:08:32Z",
+      "content": "US stocks fell on Friday to close out a losing week, with the S&amp;P 500 notching its worst weekly performance since mid-December.\r\nThe Nasdaq Composite and Dow Jones Industrial Average also ended l… [+913 chars]"
+    },
+  
+   
+    
+    {
+      "source": { "id": null, "name": "MakeUseOf" },
+      "author": "Katie Rees",
+      "title": "The 12 Main Pros and Cons of Crypto Explained",
+      "description": "Getting into crypto isn't clear-cut, so we've summarized the reasons why you and why you shouldn't.",
+      "url": "https://www.makeuseof.com/pros-cons-of-crypto-summarized/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/gold-btc-dog-eth.jpg",
+      "publishedAt": "2023-03-04T11:15:15Z",
+      "content": "Cryptocurrency is an undeniably controversial kind of asset. While some love the crypto space and have invested thousands in the industry, others steer clear of crypto altogether, believing it to be … [+9071 chars]"
+    }
+  ]
+}

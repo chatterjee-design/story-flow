@@ -1,0 +1,43 @@
+.app {
+  display: grid;
+  grid-template-columns: 12% 65% 23%;
+  grid-template-rows:  4rem 4.5rem 5rem 5rem 5rem 3rem 5rem 4.9rem;
+  background-image: url(/src/news-background1.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  backdrop-filter: blur(1px);
+}
+/*--------------------------------------------media query------------------------------------------*/
+@media only screen and  (max-width:400px ) {
+  /* For mobile phones: */
+ .app{
+  grid-template-columns: 100%;
+  grid-template-rows:  4rem 4.5rem 5rem 5rem 7rem 3rem 5rem 20rem 3rem ;
+ }
+}
+@media only screen and (min-width:400px ) and (max-width:640px ) {
+  /* For big mobile phones: */
+  .app{
+    grid-template-columns: 100%;
+    grid-template-rows:  4rem 4.5rem 5rem 5rem 10rem 5rem 5rem 20rem 3rem ;
+   }
+ 
+}
+@media only screen and (min-width:641px ) and (max-width:800px ) {
+  /* For tab: */
+  .app{
+    grid-template-columns: 100%;
+    grid-template-rows:  4rem 5rem 5rem 5rem 5rem 3rem 5rem 20rem 3rem ;
+   }
+}
+@media only screen and (min-width:799px ) and (max-width:1160px ) {
+
+  /* For bigger than tab: */
+  .app{
+    grid-template-columns: 100%;
+    grid-template-rows:  4rem 5rem 5rem 5rem 5rem 3rem 5rem 20rem 3rem ;
+   }
+}
+
