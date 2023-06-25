@@ -1,47 +1,67 @@
-import React, { useState, useEffect } from "react";
+import React, { Component } from "react";
 import News from "./News";
 import "./NewsItem.css";
 import "./Button.css";
 
-const NewsItem = () => {
-  const [articles, setArticles] = useState([]);
-  const [loading, setLoading] = useState(false);
-  const [page, setPage] = useState(1);
-  const [totalResults, setTotalResults] = useState(0);
+export default class NewsItem extends Component {
+  constructor() {
+    super();
+    this.state = {
+      articles: [],
+      loading: false,
+      page: 1,
+      totalResults: 0,
+    };
+  }
 
-  const fetchData = async (page) => {
-    setLoading(true);
-    const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=d12ca6cce1f248a591012a9e0df1db45&page=${page}&pageSize=21`;
-    const response = await fetch(url);
-    const data = await response.json();
-    setArticles(data.articles);
-    setTotalResults(data.totalResults);
-    setLoading(false);
+  async componentDidMount() {
+    await this.fetchData(this.state.page);
+  }
+  fetchData = async (page) => {
+    try {
+      this.setState({ loading: true });
+  
+      const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=d12ca6cce1f248a591012a9e0df1db45&page=${page}&pageSize=21`;
+      const response = await fetch(url);
+  
+      if (response.ok) {
+        const data = await response.json();
+        this.setState({
+          articles: data.articles,
+          totalResults: data.totalResults,
+          loading: false,
+        });
+      } else {
+        throw new Error("Error fetching data from the API");
+      }
+    } catch (error) {
+      console.error(error);
+      this.setState({ loading: false });
+    }
   };
+  
 
-  const handlePClick = async () => {
-    if (page > 1) {
-      const newPage = page - 1;
-      await fetchData(newPage);
-      setPage(newPage);
+  handlePClick = async () => {
+    if (this.state.page > 1) {
+      const newPage = this.state.page - 1;
+      await this.fetchData(newPage);
+      this.setState({ page: newPage });
     }
   };
 
-  const handleNClick = async () => {
-    const totalPages = Math.ceil(totalResults / 21);
-    if (page < totalPages) {
-      const newPage = page + 1;
-      await fetchData(newPage);
-      setPage(newPage);
+  handleNClick = async () => {
+    const totalPages = Math.ceil(this.state.totalResults / 21);
+    if (this.state.page < totalPages) {
+      const newPage = this.state.page + 1;
+      await this.fetchData(newPage);
+      this.setState({ page: newPage });
     }
   };
 
-  useEffect(() => {
-    fetchData(page);
-  }, [page]);
+  render() {
+    const { articles, loading } = this.state;
 
-  return (
-    <>
+    return (
       <div className="newsItem">
         <h1>
           News Daily-Top Headlines
@@ -52,7 +72,7 @@ const NewsItem = () => {
         <div className="newsArticles">
           {loading ? (
             <p>Loading...</p>
-          ) : (
+          ) : articles.length > 0 ? (
             articles.map((element) => (
               <div className="articles" key={element.url}>
                 <News
@@ -65,22 +85,23 @@ const NewsItem = () => {
                 />
               </div>
             ))
+          ) : (
+            <p>No articles to display.</p>
           )}
         </div>
+
         <div className="bttn">
           <div className="buttons">
-            <button onClick={handlePClick}>
+            <button onClick={this.handlePClick}>
               <span>&larr;</span>PREVIOUS
             </button>
           </div>
 
           <div className="buttons">
-            <button onClick={handleNClick}>NEXT &rarr;</button>
+            <button onClick={this.handleNClick}>NEXT &rarr;</button>
           </div>
         </div>
       </div>
-    </>
-  );
-};
-
-export default NewsItem;
+    );
+  }
+}

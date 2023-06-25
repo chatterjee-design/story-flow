@@ -1,18 +1,24 @@
-import React from 'react'
 import './App.css';
+
+import React, { Component } from 'react'
 import RightBar from './Components/RightBar';
 import Homepage from './Components/Homepage';
 import NewsItem from './Components/NewsItem';
 
 
-const App = () => {
-  return (
-    <div className='app'>
+export default class App extends Component {
+  render() {
+    return (
+      <>z
+      <div className='app'>
       <Homepage></Homepage>
       <NewsItem></NewsItem>
       <RightBar></RightBar>
-    </div>
-  )
+
+      </div>
+       
+      </>
+    )
+  }
 }
 
-export default App
