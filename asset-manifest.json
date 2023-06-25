@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/story-flow/static/css/main.c7c3fb46.css",
+    "main.js": "/story-flow/static/js/main.60c1f087.js",
+    "static/js/787.7fa2ec28.chunk.js": "/story-flow/static/js/787.7fa2ec28.chunk.js",
+    "static/media/news-background1.jpg": "/story-flow/static/media/news-background1.9767d2f2c6cc34f55e40.jpg",
+    "index.html": "/story-flow/index.html",
+    "main.c7c3fb46.css.map": "/story-flow/static/css/main.c7c3fb46.css.map",
+    "main.60c1f087.js.map": "/story-flow/static/js/main.60c1f087.js.map",
+    "787.7fa2ec28.chunk.js.map": "/story-flow/static/js/787.7fa2ec28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c3fb46.css",
+    "static/js/main.60c1f087.js"
+  ]
+}
